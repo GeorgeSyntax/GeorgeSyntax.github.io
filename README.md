@@ -10,7 +10,7 @@ Website Portfolio
 
 -  I'm currently science physics.
 
-##
+## portfolio
 
 [<img align="left" alt="George Smith | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/githubactions.svg" />][portfolio]
 
