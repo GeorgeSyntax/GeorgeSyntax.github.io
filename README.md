@@ -12,7 +12,7 @@ Website Portfolio
 
 ##
 
-[<img align="left" alt="George Smith | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/world.svg" />][portfolio]
+[<img align="left" alt="George Smith | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/githubactions.svg" />][portfolio]
 
 ### Connect with me
 
