@@ -1,7 +1,7 @@
 # GeorgeSyntax.github.io
 Website Portfolio 
 ### Hello there, I'm  アキクヘバット - George Smith 
-
+[<a align="left">Portfolio</>][portfolio]
 ## I'm a Full Stack Web Developer and JavaScript Next Developer.
 
 -  I work on some office, Shinjuku City, Tokyo 160-0021, Japan
@@ -19,7 +19,8 @@ Website Portfolio
 [<img align="left" alt="George Smith | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 <br/>
-
+[portfolio]: https://georgeSyntax.github.io/index.html
+  
 [github]: https://github.com/georgeSyntax/
 
 [facebook]: https://web.facebook.com/people/George-Smith/100082252668821/?refsrc=deprecated
