@@ -10,7 +10,7 @@ Website Portfolio
 
 -  I'm currently science physics.
 
-##[portfolio]: https://georgeSyntax.github.io/index.html
+
 
 ### Connect with me
 
