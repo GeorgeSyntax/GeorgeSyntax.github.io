@@ -1,8 +1,8 @@
 # GeorgeSyntax.github.io
 Website Portfolio 
-# GeorgeSyntax.github.io
 
-Website Portfolio 
+
+
 
 ### Hello there, I'm  アキクヘバット - George Smith 
 
