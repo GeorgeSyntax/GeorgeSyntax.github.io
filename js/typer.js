@@ -1,6 +1,6 @@
 
 // List of sentences
-var _CONTENT = [ "Full Stack Web Developer", "Full Stack Android Applicatios Developer", "Freelancer" ];
+var _CONTENT = [ "Full Stack Web Developer", "Full Stack Android Applications Developer", "Freelancer" ];
 
 // Current sentence being processed
 var _PART = 0;
